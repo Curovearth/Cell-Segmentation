@@ -6,7 +6,8 @@
 
 ## Image sets and experiment description
 
-**Dataset** which was used was extracted from the mentioned repo data: <a href="https://github.com/Subham2901/Nuclei-Cell-segmentaion/tree/master/Data">Shubham2901/Nuclei Cell Segmentation</a>
+- The final report for the project can be accessed from here: <a href="https://github.com/Curovearth/Cell-Segmentation/blob/main/Report%20Final.pdf">Final Report for Cell Segmentation</a>
+- **Dataset** which was used was extracted from the mentioned repo data: <a href="https://github.com/Subham2901/Nuclei-Cell-segmentaion/tree/master/Data">Shubham2901/Nuclei Cell Segmentation</a>
 
 | Dataset | Images | Input Size | Modality | Provider |
 | --- | --- | --- | --- | --- | 
