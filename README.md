@@ -1,9 +1,12 @@
-# Cell Segmentation
+<h2> Cell Segmentation <a href="https://colab.research.google.com/github/Curovearth/Cell-Segmentation-and-Denoising/blob/main/Cell_Segmentation_.ipynb"><img src='https://colab.research.google.com/assets/colab-badge.svg' align=right></a></h2>
+
 
 <p>The study aims to determine a solution for the automatic segmentation and localization of cells. I have tried to utilise UNet++ architecture over UNet to detect cell nuclei and perform segmentation into individual objects.</p>
 
 
 ## Image sets and experiment description
+
+**Dataset** which was used was extracted from the mentioned repo data: <a href="https://github.com/Subham2901/Nuclei-Cell-segmentaion/tree/master/Data">Shubham2901/Nuclei Cell Segmentation</a>
 
 | Dataset | Images | Input Size | Modality | Provider |
 | --- | --- | --- | --- | --- | 
@@ -51,3 +54,17 @@ and false negative detections.</p>
 With the rise of size and complexity of cell images, the requirements for cells segmentation methods are also increasing. The basic image processing algo developed decades ago should not be the golden standards for dealing with these challenging cell segmentation problems any more.
 
 On the contrary, development of more effective image processing algorithms is more promising for the progress of cell segmentation. In the meantime, comparison of these newly developed algorithms and teaching the biologists to use these newly developed algorithms are also very important. Hence, the open access and authoritative platforms are necessary for researchers all over the world to share, learn, and teach the data, codes, and algorithms. 
+
+---
+<div align=center>
+
+Share it with the world.
+
+Let the information be Free!
+
+<samp>If you like it, make sure to ⭐ it and encouraging you to make your own fork and play around with the code.</samp>
+<hr>
+👽 Swarup Tripathy
+</div>
+
+
